@@ -53,7 +53,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/kholi0o/zphisher.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
@@ -86,7 +86,7 @@ $ zphisher
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
+- Download `.deb` files from the [**Latest Release**](https://github.com/kholi0o/zphisher/releases/latest)
 - If you are using ***termux*** then download the `*_termux.deb`
 
 - Install the `.deb` file by executing
@@ -113,7 +113,7 @@ $ zphisher
     docker pull ghcr.io/htr-tech/zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
+- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/kholi0o/zphisher/master/run-docker.sh)
 
   ```
   $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
